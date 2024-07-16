@@ -1,4 +1,4 @@
-## Data Splitting in Machine Learning
+## Resampling Methods in Machine Learning
 Why do we split the data? In order to train a model, we need two things: Training data and Testing data. Let's explore some methods to achieve this using Scikit-learn.
 
 <h3>Simple Splitting:</h3>
